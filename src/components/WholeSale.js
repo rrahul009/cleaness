@@ -76,7 +76,7 @@ const WholeSale = () => {
               <h3 className="text-xl font-semibold text-black">Flexible Orders</h3>
             </div>
             <p className="text-gray-700">
-              We offer flexible order quantities to suit your business needs, whether you're ordering small or large volumes.
+              {"We offer flexible order quantities to suit your business needs, whether you're ordering small or large volumes."}
             </p>
           </div>
 

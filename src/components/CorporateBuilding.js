@@ -67,7 +67,7 @@ const CorporateBuilding = () => {
                         </div>
                         <h3 className="text-2xl font-semibold text-black mb-4 mt-6">Comprehensive Coverage</h3>
                         <p className="text-gray-700">
-                            Whether it's a corporate office, shopping mall, or healthcare facility, we have the perfect solution to meet your cleaning requirements.
+                           {"Whether it's a corporate office, shopping mall, or healthcare facility, we have the perfect solution to meet your cleaning requirements."} 
                         </p>
                     </div>
                 </div>
