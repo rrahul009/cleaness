@@ -50,7 +50,7 @@ const WholeSale = () => {
           <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition-all duration-300">
             <div className="flex flex-col items-center mb-4">
               <Image
-                src="/3rdwholesale.webp" // External image, ensure correct URL
+                src="/comprice.avif" // External image, ensure correct URL
                 alt="Competitive Prices"
                 className="mb-4 rounded-md w-full h-full object-cover"
                 width={400}
