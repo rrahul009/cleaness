@@ -93,7 +93,7 @@ const WholeSale = () => {
               <h3 className="text-xl font-semibold text-black">Fast & Reliable Delivery</h3>
             </div>
             <p className="text-gray-700">
-              Count on us for fast and reliable delivery, ensuring you always stay stocked and ready to meet customer demands.
+              {"Count on us for fast and reliable delivery, ensuring you always stay stocked and ready to meet customer demands."}
             </p>
           </div>
 
@@ -110,7 +110,7 @@ const WholeSale = () => {
               <h3 className="text-xl font-semibold text-black">Customer Support</h3>
             </div>
             <p className="text-gray-700">
-              Our dedicated customer support team is always available to help with any queries or specific requirements you have.
+             {" Our dedicated customer support team is always available to help with any queries or specific requirements you have."}
             </p>
           </div>
 
@@ -127,7 +127,7 @@ const WholeSale = () => {
               <h3 className="text-xl font-semibold text-black">Exclusive Offers</h3>
             </div>
             <p className="text-gray-700">
-              We offer exclusive deals and discounts for bulk orders, making it more affordable to stock your inventory.
+              {"We offer exclusive deals and discounts for bulk orders, making it more affordable to stock your inventory."}
             </p>
           </div>
         </div>
