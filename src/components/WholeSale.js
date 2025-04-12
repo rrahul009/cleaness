@@ -20,10 +20,10 @@ const WholeSale = () => {
 
 
           <p>
-            Whether you're stocking your store or supplying your business, our eco-friendly solutions have you covered.
+          {"  Whether you're stocking your store or supplying your business, our eco-friendly solutions have you covered."}
           </p>
           <p>
-            We aim to make cleaning easier, healthier, and more sustainable!
+          {"  We aim to make cleaning easier, healthier, and more sustainable!"}
           </p>
         </div>
 
@@ -42,7 +42,7 @@ const WholeSale = () => {
               <h3 className="text-xl font-semibold text-black">High-Quality Products</h3>
             </div>
             <p className="text-gray-700">
-              We provide high-quality, eco-friendly cleaning products that are effective and safe for use in various environments.
+             {" We provide high-quality, eco-friendly cleaning products that are effective and safe for use in various environments."}
             </p>
           </div>
 
@@ -59,7 +59,7 @@ const WholeSale = () => {
               <h3 className="text-xl font-semibold text-black">Competitive Prices</h3>
             </div>
             <p className="text-gray-700">
-              Our wholesale prices are designed to maximize your profit margins, helping you stay competitive in the market.
+             {" Our wholesale prices are designed to maximize your profit margins, helping you stay competitive in the market."}
             </p>
           </div>
 
